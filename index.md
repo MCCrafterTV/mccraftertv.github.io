@@ -1,5 +1,7 @@
 <header>
 <link rel="style" type="text/css" href="hmccraftertv/style.css">
+  <style>
+  </style>
   <div class='container'>
   </div>
 </header>
